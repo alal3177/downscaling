@@ -125,8 +125,8 @@ class CondorParser(object):
 # cp.show()
 # cp.create_submitfile("condor.submit")
 
-log_file = "gradual.log"
-cp = CondorParser(log_file)
-cp.parse_file()
-cp.show()
-cp.create_submitfiles(".submit")
+#log_file = "gradual.log"
+#cp = CondorParser(log_file)
+#cp.parse_file()
+#cp.show()
+#cp.create_submitfiles(".submit")
